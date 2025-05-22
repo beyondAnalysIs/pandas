@@ -1,0 +1,3 @@
+a partir de este codigo creame una publicacion atractiva en linkedin, y destaca los puntos mas importantes como por ejemplo la importancia del uso de limpieza avanzada en los datasets, asi como tambien el manejo de los valores nulos, las bibliotecas importantes para el manejo de fechas, filtrado de datos, uso de map(), expresiones regulares regex y union de datasets al mejor estilo de sql pero usando python con merge.
+
+Ademas  la publicacion debe contener emojis destacados, llamativos y de facil comprensión
